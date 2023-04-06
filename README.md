@@ -3,8 +3,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=865DFF&height=300&section=header&text=Welcome%20&fontSize=90&fontColor=191825)
 ### 방문해주셔서 감사합니다 🙌
   
-<br/>
-  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Teddy9802&show_icons=true&theme=radical)
 
 <br/>
