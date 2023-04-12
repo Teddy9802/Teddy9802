@@ -12,6 +12,11 @@
  
 <br/>
  
+# 🙋🏻‍♂️ AboutMe
+<a href="https://velog.io/@teddy__98" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=plastic&logo=velog&logoColor=000000"/></a> <a href="mailto:kingteddy0210@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=plastic&logo=gmail&logoColor=000000"/></a> <a href="https://www.notion.so/TaeHoon-s-Portpolio-97c039bb521347e09cdd58320c45c94e" target="_blank"><img src="https://img.shields.io/badge/PortPolio-000000?style=plastic&logo=notion&logoColor=ffffff"/></a>
+ 
+<br/>
+ 
 # 🛠️ Skills 
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=black"/> <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=black"/> <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=GraphQL&logoColor=black"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=black"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=black"/> <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=NestJS&logoColor=black"/>
 
