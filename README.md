@@ -12,7 +12,7 @@
 <br/>
  
 # 🙋🏻‍♂️ AboutMe
-<a href="https://velog.io/@teddy__98" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=plastic&logo=velog&logoColor=000000"/></a> <a href="mailto:kingteddy0210@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=plastic&logo=gmail&logoColor=000000"/></a> <a href="https://www.notion.so/TaeHoon-s-Portpolio-97c039bb521347e09cdd58320c45c94e" target="_blank"><img src="https://img.shields.io/badge/PortPolio-000000?style=plastic&logo=notion&logoColor=ffffff"/></a>
+<a href="mailto:kingteddy0210@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=plastic&logo=gmail&logoColor=000000"/></a> <a href="https://www.notion.so/TaeHoon-s-Portpolio-97c039bb521347e09cdd58320c45c94e" target="_blank"><img src="https://img.shields.io/badge/PortPolio-000000?style=plastic&logo=notion&logoColor=ffffff"/></a>
  
 <br/>
  
